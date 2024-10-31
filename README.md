@@ -1,15 +1,14 @@
 # GSM 7-Bit Encoder and Decoder
-
 A C++ implementation of GSM 7-bit encoding and decoding for SMS messages.
 
-## Overview
 
+## Overview
 This project provides:
 - **GSM7BitEncoder**: Converts text to GSM 7-bit encoded hexadecimal.
 - **GSM7BitDecoder**: Converts GSM 7-bit encoded hex back to readable text.
 
-## Installation
 
+## Installation
 Compile and run with a C++ compiler:
 
 ```bash
